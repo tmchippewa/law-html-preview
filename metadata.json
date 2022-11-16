@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2022-11-15",
+      "codified-date": "0001-01-01",
+      "platform": {
+        "reproducible": "false",
+        "version": "2.6.4"
+      },
+      "repositories": [
+        {
+          "commit": "7857b806905e2059e066ec8c39e93c0b0bf07eeb",
+          "name": "tmchippewa/law-xml"
+        },
+        {
+          "commit": "70f26403e81357c750d6715b86896a6d6784b2e8",
+          "name": "tmchippewa/law-xml-codified-preview"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "",
+      "html-bulk": "https://github.com/tmchippewa/law-html",
+      "static-assets": "https://github.com/tmchippewa/law-static-assets",
+      "xml-bulk": "https://github.com/tmchippewa/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": ""
+  }
+}
