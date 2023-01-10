@@ -1,19 +1,19 @@
 {
   "meta": {
     "build": {
-      "build-date": "2022-12-14",
-      "codified-date": "0001-01-01",
+      "build-date": "2023-01-10",
+      "codified-date": "2022-08-12",
       "platform": {
         "reproducible": "false",
-        "version": "2.7.0"
+        "version": "2.8.0"
       },
       "repositories": [
         {
-          "commit": "dd400e45f2720a445be5670902b5df2fad6d02ef",
+          "commit": "fe23fd81a80b96e697c9ef864ed2732e6cc6d7b4",
           "name": "tmchippewa/law-xml"
         },
         {
-          "commit": "74f75dd9d89e74eafa4717bde1543241bd2fd7f3",
+          "commit": "6e200d576dfe971c408af290ac7f3a1f304c5c01",
           "name": "tmchippewa/law-xml-codified-preview"
         }
       ]
