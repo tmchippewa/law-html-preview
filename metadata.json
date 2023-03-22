@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "4b9b5a473ce438151e191d7371c42c6fe868a0e9",
+          "commit": "473c518afb3a5401cce5ceaf1bf8abefe1a77a48",
           "name": "tmchippewa/law-xml"
         },
         {
-          "commit": "76fd6e02df03c6162c531abd703a28684f443acf",
+          "commit": "1c9dc1701eaa6966c3d6b23eedbf4901ec6ce84d",
           "name": "tmchippewa/law-xml-codified-preview"
         }
       ]
