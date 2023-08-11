@@ -1,11 +1,13 @@
 {
   "meta": {
     "build": {
-      "build-date": "2023-08-09",
+      "build-date": "2023-08-11",
+      "ci-build-number": "1.0.18",
+      "ci-project": "tmchippewa/law-xml",
       "codified-date": "2023-08-01",
       "platform": {
         "reproducible": "false",
-        "version": "2.13.0"
+        "version": "2.12.4"
       },
       "repositories": [
         {
@@ -13,7 +15,7 @@
           "name": "tmchippewa/law-xml"
         },
         {
-          "commit": "3ce75057cf5e462f509e877c630faf96f2b97794",
+          "commit": "dec353faa0c8a65eb5040fe631e189e26b539de6",
           "name": "tmchippewa/law-xml-codified-preview"
         }
       ]
