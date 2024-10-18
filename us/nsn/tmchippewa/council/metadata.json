@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2024-08-14",
+      "ci-build-number": "1.0.26",
+      "ci-project": "tmchippewa/law-xml",
+      "codified-date": "2024-08-05",
+      "platform": {
+        "reproducible": "false",
+        "version": "2.12.7"
+      },
+      "repositories": [
+        {
+          "commit": "8ece13b6657a58ed58631517c2acd3a12e12a68b",
+          "name": "tmchippewa/law-xml"
+        },
+        {
+          "commit": "7578b186d96f5b64f307314cb223bd21c0fc792a",
+          "name": "tmchippewa/law-xml-codified-preview"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "",
+      "html-bulk": "https://github.com/tmchippewa/law-html",
+      "law-git": "https://github.com/tmchippewa/law.git",
+      "static-assets": "https://github.com/tmchippewa/law-static-assets",
+      "xml-bulk": "https://github.com/tmchippewa/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "",
+    "history-start": "2023-03-22"
+  }
+}
