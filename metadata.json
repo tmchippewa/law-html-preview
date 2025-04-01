@@ -1,25 +1,24 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-03-26",
+      "build-date": "2025-04-01",
+      "ci-build-number": "1.0.34",
+      "ci-project": "tmchippewa/law-xml",
       "codified-date": "2024-10-01",
       "platform": {
         "reproducible": "false",
-        "version": "2.16.0"
+        "version": "2.15.16"
       },
       "repositories": [
         {
-          "commit": "0bbace28abc0e37b92cd7c19c02d08559f37e9bd",
+          "commit": "237864e53f545e2a40f5cd5244dc21e06cc7e8e7",
           "name": "tmchippewa/law-xml"
         },
         {
-          "commit": "9f5b479f3a5d09de0baf12807a5299013b46b0ce",
+          "commit": "a073faf77f0eba337d8ef5e7486f2309d3046819",
           "name": "tmchippewa/law-xml-codified-preview"
         }
-      ],
-      "search": {
-        "version": "v2"
-      }
+      ]
     },
     "canonical-urls": {
       "html": "https://law.tmchippewa.com",
