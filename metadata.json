@@ -1,21 +1,21 @@
 {
   "meta": {
     "build": {
-      "build-date": "2026-04-27",
-      "ci-build-number": "1.0.35",
+      "build-date": "2026-05-18",
+      "ci-build-number": "1.0.36",
       "ci-project": "tmchippewa/law-xml",
-      "codified-date": "2025-07-31",
+      "codified-date": "2026-01-14",
       "platform": {
         "reproducible": "false",
-        "version": "2.20.4"
+        "version": "2.20.9"
       },
       "repositories": [
         {
-          "commit": "b5f25d9d98c1165c201d29e4c1c5d0d8fa203b27",
+          "commit": "5278c804a1f48faced689332e904359d46bfbcdb",
           "name": "tmchippewa/law-xml"
         },
         {
-          "commit": "4420574b28ce2f04b2b393342d41d87ba7bdffd8",
+          "commit": "e7a5c7bfdb81296bd0cf02799c86c9d626d268fc",
           "name": "tmchippewa/law-xml-codified-preview"
         }
       ],
